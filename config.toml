@@ -1,6 +1,6 @@
 baseURL = "http://fanni.github.io/"
 languageCode = "en-us"
-title = "My Blog Site"
+title = "Blog Saya"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/fanni\">Fanni Ikhwan</a> 2020"
 disqusShortname = "shortname"
